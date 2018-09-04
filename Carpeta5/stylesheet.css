@@ -2,8 +2,6 @@ p {
 	color: red;
 } 
 
-p {
-	font-family: Arial;
-	color: blue; 
-	font-size: 26px;
+span{
+	color:blue;
 }
