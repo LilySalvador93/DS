@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.header{
+	background-color: #FADADA;
+	padding: 1em;
+}
+
+.header img{
+	display: block;
+	margin: auto;
+	vertical-align: middle;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.header .name{
+	font-size: 34px;
+	text-align: center;
+	padding: 1em;
+}
+
+.tabla{
+	padding: 3em;
+	width: 100%;
+}
+
+
+.contenedor-info{
+	text-align: left;
+	padding: 1em;
+	border-radius: 25px;
+	background-color: #eee;
+	width: 350px;
+	height: 400px;
+	margin: auto;
+}
+
+
+
+ul{
+	padding-left: 2em;
+}
+
+th{
+
+	padding-bottom: 2em;
+}
