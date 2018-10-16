@@ -1,0 +1,13 @@
+Idea del Proyecto Android 
+
+Un cliente desea cotizar una compra de un teléfono 
+
+Solucion: 
+Crear una aplicacion que permita ver
+
+-Nombre del cliente
+-Nombre del vendedor
+-Marca/Modelo
+-Caracteristica
+-Precio 
+-Fecha
