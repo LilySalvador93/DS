@@ -1,0 +1,9 @@
+.row > div{
+	padding: 10px;
+	background-color: #d37d1a4f;
+	text-align: center;
+}
+
+.row{
+	margin: 40px auto;
+}
